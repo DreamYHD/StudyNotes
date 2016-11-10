@@ -42,3 +42,36 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 * [chapter22 - 享元模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter22-享元模式.md)
 * [chapter23 - 外观模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter23-外观模式.md)
 * [chapter24 - 桥接模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter24-桥接模式.md)
+
+## 数据结构
+
+
+
+
+
+## Android
+* [Activity]
+* [Srevice]
+* [Broadcast Receiver]
+* [Content Provider]
+* [自定义View]
+* [动画]
+* [异步处理]
+
+## RxJava
+
+## Android 网络框架
+
+
+
+
+
+
+
+
+
+
+
+
+
+
