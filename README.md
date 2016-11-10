@@ -18,7 +18,7 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 
 
 ## DesignPattern
-* [chapter01 - 面向对象六大原则]https://github.com/yanghaodong/StudyNotes/edit/master/DesignPattern/chapter01-面向对象六大原则.md)
+* [chapter01 - 面向对象六大原则](https://github.com/yanghaodong/StudyNotes/master/DesignPattern/chapter01-面向对象六大原则.md)
 * [chapter02 - 单例模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter02-单例模式.md)
 * [chapter03 - Builder模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter03-Builder模式.md)
 * [chapter04 - 原型模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter04-原型模式.md)
