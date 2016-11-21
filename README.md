@@ -50,17 +50,12 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 
 
 ## Android
-* [Activity]
-* [Srevice]
-* [Broadcast Receiver]
-* [Content Provider]
-* [自定义View]
-* [动画]
-* [异步处理]
+####以下内容为学习《Android开发艺术探索》笔记
 
 ## RxJava
 
-## Android群英传
+## Android网络框架搭建
+
 
 
 
