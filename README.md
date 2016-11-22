@@ -43,18 +43,36 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 * [chapter23 - 外观模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter23-外观模式.md)
 * [chapter24 - 桥接模式](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter24-桥接模式.md)
 
+
 ## 数据结构
 
-
+.............待续
 
 
 
 ## Android
 ####以下内容为学习《Android开发艺术探索》笔记
+* [Part01  -  Activity生命周期和启动模式](https://github.com/yanghaodong/StudyNotes/master/DesignPattern/chapter01-面向对象六大原则.md)
+* [Part02  -  IPC机制](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter02-单例模式.md)
+* [Part03  -  Drawable](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter03-Builder模式.md)
+* [Part04  -  Android的线程和线程池](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter04-原型模式.md)
+* [Part05  -  Bitmap的加载和Caches](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter05-工厂方法模式.md)
+* [Part06  -  View的事件体系](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter07-策略模式.md)
+* [Part07  -  View的工作原理](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter08-状态模式.md)
+* [Part08  -  理解Windows和WindowManger](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter09-责任链模式.md)
+* [Part09  -  RemoteViews](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter11-命令模式.md)
+* [Part10  -  动画](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter12-观察者模式.md)
+* [Part11  -  四大组件的工作原理](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter06-抽象工厂模式.md)
+* [Part12  -  Android的消息机制](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter13-备忘录模式.md)
+* [Part13  -  JNI和NDK编程](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter14-迭代器模式.md)
+* [Part14  -  Android性能优化](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter15-模板方法模式.md)
+* [Part15  -  综合技术](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter10-解释器模式.md)
+
 
 ## RxJava
-
+.............待续
 ## Android网络框架搭建
+.............待续
 
 
 
