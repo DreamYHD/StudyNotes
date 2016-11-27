@@ -14,7 +14,6 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 * [Java 多线程](https://github.com/yanghaodong/StudyNotes/edit/master/Java/java多线程.md)
 * [Java 线程池](https://github.com/yanghaodong/StudyNotes/edit/master/Java/线程池.md)
 * [Java io流](https://github.com/yanghaodong/StudyNotes/edit/master/Java/java io.md)
-* [Java String](https://github.com/yanghaodong/StudyNotes/edit/master/Java/java String.md)
 
 
 ## DesignPattern
