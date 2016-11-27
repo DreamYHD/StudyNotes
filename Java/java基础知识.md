@@ -99,3 +99,21 @@ finally是异常处理语句结构的一部分，表示总是执行。
        
         特别要注意一个问题：
         对于被static和final修饰过的实例常量，实例本身不能再改变了，但对于一些容器类型（比如，ArrayList、HashMap）的实例变量，不可以改变容器变量本身，但可以修改容器中存放的对象，这一点在编程中用到很多。
+
+##如果要对一个特别大的（如100位）数进行相加，在java中如何计算：
+[相关链接](http://ly5633.iteye.com/blog/1218724)  
+在Java中针对比较大的数字，有大数类型来进行表示。即BigInteger和BigDecimal两个类。
+以BigDecimal为例：
+```java
+BigDecimal bigDecimalA = new BigDecimal("1234567890123456789012345678901");
+        BigDecimal bigDecimalB = new BigDecimal("1234567890123456789012345678902");
+        // 加  +
+        bigDecimalA = bigDecimalA.add(bigDecimalB);
+        // 减  -
+        bigDecimalA = bigDecimalA.subtract(bigDecimalB);
+        // 乘  *
+        bigDecimalA = bigDecimalA.multiply(bigDecimalB);
+        // 除  /
+        bigDecimalA = bigDecimalA.divide(bigDecimalB);
+        ```
+        // ......其他的类似，API里很详细，不再赘述了。
