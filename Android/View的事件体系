@@ -1,11 +1,11 @@
-##### 事件
+#####事件
 * ACTION_DOWN 手指初次触摸到屏幕时候触发
 * ACTION_MOVE 手指在屏幕上华东的时候触发，会多次触发
 * ACTIOM_UP 手指离开屏幕的时候触发
 * ACTION_CANCEL 事件被上层拦截的时候触发
 * ACTION_OUTSIDE手指不再控件区域的时候触发
 
-##### 方法
+#####方法
 * getAction()	获取事件类型。
 * getX()	获得触摸点在当前 View 的 X 轴坐标。
 * getY()	获得触摸点在当前 View 的 Y 轴坐标。
