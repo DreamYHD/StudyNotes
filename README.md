@@ -50,7 +50,7 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 
 
 ## Android
-####以下内容为学习《Android开发艺术探索》笔记
+#### 以下内容为学习《Android开发艺术探索》笔记
 * [Part01  -  Activity生命周期和启动模式](https://github.com/yanghaodong/StudyNotes/master/DesignPattern/chapter01-面向对象六大原则.md)
 * [Part02  -  IPC机制](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter02-单例模式.md)
 * [Part03  -  Drawable](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter03-Builder模式.md)
