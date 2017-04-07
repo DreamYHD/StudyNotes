@@ -21,7 +21,7 @@ public class Test {
 		
 			File []files=file.listFiles();
 			if (files!=null&&files.length!=0) {
-		     for (File file2 : files) {
+		        for (File file2 : files) {
 				if (file2.isDirectory()) {
 					find(file2);
 				}else {
@@ -39,7 +39,7 @@ public class Test {
 	public static void main(String[] args) {
 		
 		File file=new File("f:\\");
-        find(file);	
+                find(file);	
       
 
 	}
