@@ -1,4 +1,5 @@
-###1、作用域public,private,protected,以及不写时的区别 
+### 1、作用域public,private,protected,以及不写时的区别 
+
 | 作用域 | 当前类 | 同一package |子孙类 |其他package|
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|
 | public    | √ | √ |√|√|
@@ -6,15 +7,15 @@
 | friendly | √  | √ |×|×|
 | private | √|× |×|×|
 
-###2、Anonymous Inner Class (匿名内部类) 是否可以extends(继承)其它类，是否可以implements(实现)interface(接口)  
+### 2、Anonymous Inner Class (匿名内部类) 是否可以extends(继承)其它类，是否可以implements(实现)interface(接口)  
 答：匿名的内部类是没有名字的内部类。不能extends(继承) 其它类，但一个内部类可以作为一个接口，由另一个内部类实现 
-###3、Static Nested Class 和 Inner Class的不同 
+### 3、Static Nested Class 和 Inner Class的不同 
 答：Nested Class （一般是C++的说法），Inner Class (一般是JAVA的说法)。Java内部类与C++嵌套类最大的不同就在于是否有指向外部的引用上。注： 静态内部类（Inner Class）意味着1创建一个static内部类的对象，不需要一个外部类对象，2不能从一个static内部类的一个对象访问一个外部类对象
-###4、&和&&的区别 
+### 4、&和&&的区别 
 答：&是位运算符，表示按位与运算，&&是逻辑运算符，表示逻辑与（and
-###5、Collection 和 Collections的区别
+### 5、Collection 和 Collections的区别
 答：Collection是集合类的上级接口，继承与他的接口主要有Set 和List.  Collections是针对集合类的一个帮助类，他提供一系列静态方法实现对各种集合的搜索、排序、线程安全化等操作
-###6、序列化与反序列化的作用：
+### 6、序列化与反序列化的作用：
 
 对象的序列化主要有两种用途：<br>
 1） 把对象的字节序列永久地保存到硬盘上，通常存放在一个文件中；<br>
