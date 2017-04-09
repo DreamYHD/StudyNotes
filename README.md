@@ -69,9 +69,16 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 
 
 ## RxJava
-.............待续
-## Android网络框架搭建
-.............待续
+* [RxJava概述](http://lovehaodong.cn/2017/03/11/RxJava%20%E5%AE%B6%E6%97%8F/)
+* [RxJava基础](http://lovehaodong.cn/2017/03/19/RxJava%20RxJava/)
+* [RxJava Permissions](http://lovehaodong.cn/2017/03/16/RxJava%20RxPermissions/)
+* [RxJava RxLifecyle](http://lovehaodong.cn/2017/03/14/RxJava%20RxLifecycle/)
+* [RxJava RxBus基础](http://lovehaodong.cn/2017/03/13/RxJava%20RxBus/)
+* [RxJava RxBus进阶](http://lovehaodong.cn/2017/04/09/RxJava%20RxBusTwo/)
+* [RxJava RxBinding](http://lovehaodong.cn/2017/03/11/RxJava%20RxBinding/)
+
+## 自定义View
+
 
 
 
