@@ -7,7 +7,7 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 ##  Java
 
 * [Java 基础知识](https://github.com/yanghaodong/StudyNotes/blob/master/Java/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-* [Java 面向对象](https://github.com/yanghaodong/StudyNotes/edit/master/Java/java面向对象.md)
+* [Java 面向对象](https://github.com/DreamYHD/StudyNotes/blob/master/Java/java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 * [Java 集合](https://github.com/yanghaodong/StudyNotes/edit/master/Java/java集合.md)
 * [Java String](https://github.com/yanghaodong/StudyNotes/blob/master/Java/java%20String.md)
 * [Java 异常](https://github.com/DreamYHD/StudyNotes/blob/master/Java/java%20%E5%BC%82%E5%B8%B8.md)
