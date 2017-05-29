@@ -13,7 +13,7 @@ Q Q：[人丑就要多读书](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site
 * [Java 异常](https://github.com/DreamYHD/StudyNotes/blob/master/Java/java%20%E5%BC%82%E5%B8%B8.md)
 * [Java 多线程](https://github.com/yanghaodong/StudyNotes/edit/master/Java/java多线程.md)
 * [Java 线程池](https://github.com/yanghaodong/StudyNotes/edit/master/Java/线程池.md)
-* [Java io流](https://github.com/yanghaodong/StudyNotes/edit/master/Java/javaio.md)
+* [Java io流](https://github.com/DreamYHD/StudyNotes/blob/master/Java/java%20io.md)
 * [Java 注解](https://github.com/DreamYHD/StudyNotes/blob/master/Java/java%E6%B3%A8%E8%A7%A3.md)
 
 
