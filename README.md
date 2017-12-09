@@ -1,7 +1,7 @@
 #  StudyNotes
 > **一起学习，一起交流**  
-Q Q：[Einsame](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site=&menu=yes)  
-邮箱：[478214853@qq.com](mailto:478214853@qq.com)  
+Q Q：[Einsame](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site=&menu=yes)<br>
+邮箱：[478214853@qq.com](mailto:478214853@qq.com) <br>
 主页：[http://lovehaodong.cn](http://lovehaodong.cn) 
 
 ##  Java
