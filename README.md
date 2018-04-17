@@ -75,7 +75,6 @@ Q Q：[Einsame](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site=&menu=yes)<br
 * [RxJava RxBus基础](http://lovehaodong.cn/2017/03/13/RxJava%20RxBus/)
 * [RxJava RxBus进阶](http://lovehaodong.cn/2017/04/09/RxJava%20RxBusTwo/)
 * [RxJava RxBinding](http://lovehaodong.cn/2017/03/11/RxJava%20RxBinding/)
-## RxKotlin
 
 ## 自定义View
 
