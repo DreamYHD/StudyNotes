@@ -18,4 +18,4 @@ ReferenceQueue queue = new ReferenceQueue ();
 PhantomReference pr = new PhantomReference (object, queue); 
 ```
 程序可以通过判断引用队列中是否已经加入了虚引用，来了解被引用的对象是否将要被垃圾回收。如果程序发现某个虚引用已经被加入到引用队列，那么就可以在所引用的对象的内存被回收之前采取必要的行动。
-https://blog.csdn.net/coding_or_coded/article/details/6603549参考
+https://blog.csdn.net/coding_or_coded/article/details/6603549
