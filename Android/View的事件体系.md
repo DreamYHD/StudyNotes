@@ -40,8 +40,8 @@
                 break;
         }
         return super.onTouchEvent(event);
-    }
-    ```
+    }
+```
 
 #### ACTION_CANCEL
 
@@ -131,3 +131,8 @@ void printSamples(MotionEvent ev) {
 * getDownTime()	获取手指按下时的时间。
 * getEventTime()	获取当前事件发生的时间。
 * getHistoricalEventTime(int pos)	获取历史事件发生的时间。
+
+#### 事件分发机制
+事件分发机制有dispatchTouchEvent，onInterceptTouchEvent和onTouchEvent三个方法协助完成，一般处理场景是拦截down事件，然后之后的move，up事件就在该拦截的地方停止
+![](https://upload-images.jianshu.io/upload_images/944365-aea821bbb613c195.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
+
