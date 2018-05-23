@@ -6,7 +6,7 @@
 * ACTION_CANCEL 事件被上层拦截的时候触发
 * ACTION_OUTSIDE手指不再控件区域的时候触发
 
-#####方法
+##### 方法
 * getAction()	获取事件类型。
 * getX()	获得触摸点在当前 View 的 X 轴坐标。
 * getY()	获得触摸点在当前 View 的 Y 轴坐标。
@@ -84,6 +84,7 @@ index属性：
 * 第4个手指按下	ACTION_POINTER_DOWN (0x00000305)
 
 #### 注意
+
 * 多点触控时必须使用 getActionMasked() 来获取事件类型。
 * 单点触控时由于事件数值不变，使用 getAction() 和 getActionMasked() 两个方法都可以。
 * 使用 getActionIndex() 可以获取到这个index数值。不过请注意，getActionIndex() 只在 down 和 up 时有效，move 时是无效的。
