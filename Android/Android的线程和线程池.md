@@ -1,9 +1,6 @@
 #### 直接继承Thread
 #### 实现Runnable
 #### handler
-#### h#### 直接继承Thread
-#### 实现Runnable
-#### handler
 #### handlerThread
 本质上是一个thread只不过内部维护了自己的looper，我们都知道handler的运行和环境需要一个looper，在该thread的run方法中我们会先初始化一个looper并且设置线程的优先级以及我们的messagequeue，然后通过notify和wait机制，把我们的工作handler成功放入该looper中，然后开始我们的消息循环，为什么要把start方法放到前面也是这个原因吧。如果我们需要更新ui的话还可以配合一个handler使用，在耗时操作完成之后使用handler的post方法
 ```
@@ -14,8 +11,5 @@ HandlerThread必须配合Handler使用，HandlerThread线程中做具体事情�
 #### asynctask
 内部维护了两个线程池和一个handler对象，SerialExucutors，这个相当于一个线程任务队列，通过锁机制来保证asynctask中的任务是顺序执行的，Thread_Pool_Executor内部封装的才是真正执行任务的线程池，在asynctask的构造方法中，初始化一个worker和Futuretask对象，worker实质上是callable，，worker的call方法的话负责执行我们的耗时操作的任务，doInbackgroud以及之后的返回结果操作postResult，最终将这个future添加到任务队列serialexecutor中，最终执行，当我们使用executor方法的时候需要调用executor方法，这个方法中首先会实现调用我们的onPreExecutor方法，也就是我们重写的方法，之后的话就是将future传入我们的任务队列，通过锁来保证顺序执行，当然更新我们ui线程的操作还是我们的handler去执行的
 #### intentService
-
-ndlerThread
-#### asynctask
-#### intentService
+继承自service，内部通过handlerThread+handler机制进行一步操作，在create方法中进行handlerthread，然后将handler和handlerthread进行绑定，的初始化，这样就保证了异步操作。在startCommand方法中把intent封装到message里面，一次插入到任务队列，然后发送给我们的handler，handler中调用了一个handlerIntent传入intent，这是一个抽象方法，也就是我们要重写的，所以异步操作在这里面重写。
 #### 线程池
