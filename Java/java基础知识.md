@@ -7,6 +7,8 @@
 | friendly | √  | √ |×|×|
 | private | √|× |×|×|
 
+
+
 ### 2、Anonymous Inner Class (匿名内部类) 是否可以extends(继承)其它类，是否可以implements(实现)interface(接口)  
 答：匿名的内部类是没有名字的内部类。不能extends(继承) 其它类，但一个内部类可以作为一个接口，由另一个内部类实现 
 ### 3、Static Nested Class 和 Inner Class的不同 
