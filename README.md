@@ -64,7 +64,7 @@ Q Q：[Einsame](http://sighttp.qq.com/msgrd?v=3&uin=478214853&site=&menu=yes)<br
 * [Part12  -  Android的消息机制](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter13-备忘录模式.md)
 * [Part13  -  JNI和NDK编程](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter14-迭代器模式.md)
 * [Part14  -  Android性能优化](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter15-模板方法模式.md)
-* [Part15  -  综合技术](https://github.com/onlylemi/notes/blob/master/DesignPattern/chapter10-解释器模式.md)
+
 
 
 ## RxJava
