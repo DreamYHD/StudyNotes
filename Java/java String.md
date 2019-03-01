@@ -1,5 +1,5 @@
-[string　常用的　ＡＰＩ](http://www.apihome.cn/api/java/String.html)  
-[原文链接　ｓｔｒｉｎｇ中常见的１０个问题](http://www.programcreek.com/2013/09/top-10-faqs-of-java-strings/)  
+[string常用的API](http://www.apihome.cn/api/java/String.html)  
+[原文链接ｓｔｒｉｎｇ中常见的１０个问题](http://www.programcreek.com/2013/09/top-10-faqs-of-java-strings/)  
 
 #### 1. 字符串比较,使用 "==" 还是 equals() ?
 简单来说, "==" 判断两个引用的是不是同一个内存地址(同一个物理对象).
